@@ -357,7 +357,7 @@ print(ret)
 </html>
 ```
 
-![image-20200106203755271](/Users/jiangchunsheng/Library/Application Support/typora-user-images/image-20200106203755271.png)
+![image-20200106203755271](../image/image-20200106203755271.png)
 
 - xpath是一个树结构去选取的
 - 每一个标签都是一个节点
